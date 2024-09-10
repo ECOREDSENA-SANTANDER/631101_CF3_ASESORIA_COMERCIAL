@@ -75,7 +75,8 @@
         h2 2.2 Clasificación de las variables
 
       p.mb-5 Se pueden identificar 2 tipos de variables que participan en el manejo de la información de un proceso investigativo y pueden señalar relaciones comportamentales  al medir determinado número de sucesos:
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-7
         .col-lg-5.col-md-12.col-12.px-3
           .titulo-sexto.color-secundario
             h5 Figura 1. 
