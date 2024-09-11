@@ -47,7 +47,7 @@
                 | Una vez recopilada la información obtenida se debe codificar.
               
           
-      .py-3.py-md-4(titulo="Recogida de los datos")
+      .py-3.py-md-4(titulo="Procesamiento de los datos")
         .row.justify-content-center.align-items-center.p-4(data-aos="zoom-in-left")
             .col-md-4
               figure
@@ -73,7 +73,7 @@
                   i.fas.fa-angle-right
                   | Imprimir los resultados. (p.179).
         
-      .py-3.py-md-4(titulo="Recogida de los datos")
+      .py-3.py-md-4(titulo="Interpretación de los datos")
         .row.justify-content-center.align-items-center.p-4
           .col-md-4
             figure
@@ -82,7 +82,7 @@
             h4 Interpretación de los datos
             p Se refiere a la ejecución de procesos por medio de los cuales se examinan los datos con el fin de llegar a una conclusión informada y una etapa esencial del procesamiento de datos.
         
-      .py-3.py-md-4(titulo="Recogida de los datos")
+      .py-3.py-md-4(titulo="Almacenamiento de los datos")
         .row.justify-content-center.align-items-center.p-4
           .col-md-4
             figure

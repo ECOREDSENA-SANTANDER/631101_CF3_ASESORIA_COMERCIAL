@@ -86,7 +86,7 @@
           .tarjeta.tarjeta--gris.p-4.mb-5
             LineaTiempoC.color-acento-contenido(text-small)
               .row.justify-content-center(titulo="Minería de datos")
-                .col-md-10.mb-4.mb-md-0
+                .col-md-11.mb-4.mb-md-0
                   h4 Minería de datos
                   p Minería de datos es definida como el proceso de encontrar singularidades, elementos comunes y correspondencias en grandes agregados de datos para augurar conclusiones, empleando una amplia variedad de técnicas.  En conformidad con la página web de SAS la minería de datos le permite:
                   ul.lista-ul
