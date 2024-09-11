@@ -8,7 +8,7 @@
       h1 La información
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4
+      .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/temas/tema1/img01.png', alt='')
       .col-lg-8
         p En el actual siglo XXI, una de sus principales características es la valía de la información para la toma de decisiones tanto empresariales, como ambientales y sociales; la sociedad vive en un mundo de permanente bombardeo de información en noticias de prensa, radio y televisión, pero con la masificación de la web y de las redes sociales, hoy en día el ser humano vive rodeado de información útil pero también de información bastante inservible o inútil.    
@@ -43,7 +43,7 @@
       h2 1.2 Importancia de la información
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/temas/tema1/img02.png', alt='')
       .col-lg-8
         p.mb-4 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
@@ -71,7 +71,7 @@
         .tarjeta-avatar
           .tarjeta.fondo-azul
             .row.justify-content-center.align-items-center.p-4
-              .col-lg-2.py-2
+              .col-lg-2.py-2.col-4
                 img(src='@/assets/curso/temas/tema1/1.png', alt='')
               .col-lg-10
                 h2.text-center.titulo-morado.p-2 Fuentes de información primarias
@@ -82,7 +82,7 @@
         .tarjeta-avatar
           .tarjeta.fondo-morado
             .row.justify-content-center.align-items-center.p-4
-              .col-lg-2.py-2
+              .col-lg-2.py-2.col-4
                 img(src='@/assets/curso/temas/tema1/2.png', alt='')
               .col-lg-10
                 h2.text-center.titulo-morado.p-2 Fuentes de información secundarias
@@ -127,16 +127,16 @@
       p La información tiene diversas formas de ser examinada y analizada, de ello, dependerá las conclusiones que sean pertinentes al proceso de investigación que se está desarrollando, por tanto a continuación se presenta la conceptualización de las formas de análisis de la información.
 
       .row.justify-content-start.mb-4
-        .col-sm-12.col-lg-7
+        .col-sm-12.col-lg-7.col-sm-6
           .d-flex.align-items-center
             img.w-card-icon(src="@/assets/curso/temas/tema1/aro.svg")
             h3.bg13.py-2.w-card-text Análisis de la información
 
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img03.png")
-        .col-lg-8
+        .col-lg-8.col-12
           h4.subrayado.mb-5 Investigación cualitativa
           p Según Sampieri (2.006) “se fundamentan más en un proceso inductivo (explorar y describir, y luego generar perspectivas teóricas), van de lo particular a lo general en el análisis de fenómenos sociales” (p 8).
           p Según  Báez (2.009) en su definición agrega el componente comercial muy de moda en los presentes contextos ofreciendo el concepto de investigación cualitativa como “el conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos” (p.35).
@@ -149,7 +149,7 @@
           .tarjeta-avatar
             .tarjeta.fondo-azul
               .row.justify-content-center.align-items-center.p-4
-                .col-lg-2.py-2
+                .col-lg-2.py-2.col-4
                   img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
                 .col-lg-8
                   h2.text-center.titulo-morado.p-2 Ventajas
@@ -171,7 +171,7 @@
           .tarjeta-avatar
             .tarjeta.fondo-morado
               .row.justify-content-center.align-items-center.p-4
-                .col-lg-2.py-2
+                .col-lg-2.py-2.col-4
                   img(src='@/assets/curso/temas/tema1/desventaja.svg', alt='')
                 .col-lg-8
                   h2.text-center.titulo-morado.p-2 Desventajas
@@ -189,10 +189,10 @@
 
       .py-3
       .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-        .col-lg-8
+        .col-lg-8.col-12
           h4.subrayado.mb-4 Investigación cuantitativa
           p Es un método de investigación en el que, según Sampieri (2.006), el investigador recolecta datos numéricos de los objetos, fenómenos o participantes, que estudia y analiza mediante procedimientos estadísticos.
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img04.png")
          
           .row.justify-content-center.align-items-center.mb-5
@@ -204,7 +204,7 @@
           .tarjeta-avatar
             .tarjeta.fondo-azul
               .row.justify-content-center.align-items-center.p-4
-                .col-lg-2.py-2
+                .col-lg-2.py-2.col-4
                   img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
                 .col-lg-8
                   h2.text-center.titulo-morado.p-2 Ventajas
@@ -226,7 +226,7 @@
           .tarjeta-avatar
             .tarjeta.fondo-morado
               .row.justify-content-center.align-items-center.p-4
-                .col-lg-2.py-2
+                .col-lg-2.py-2.col-4
                   img(src='@/assets/curso/temas/tema1/desventaja.svg', alt='')
                 .col-lg-8
                   h2.text-center.titulo-morado.p-2 Desventajas

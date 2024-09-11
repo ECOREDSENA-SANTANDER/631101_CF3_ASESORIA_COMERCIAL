@@ -21,7 +21,7 @@
         h2 4.1 Antecedentes
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-        .col-lg-4
+        .col-lg-4.col-8.col-sm-6
           img(src='@/assets/curso/temas/tema4/img02.png', alt='')
         .col-lg-8
           .cajon.color-acento-contenido.p-4.mb-4
@@ -63,7 +63,7 @@
           .cajon.color-acento-contenido.p-4.mb-4
             p Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La página web de Quality Leadership University (QLE) indica que tradicionalmente en el análisis de antecedentes se verifica:
           p Por último, está el análisis prescriptivo se encarga de encontrar una solución entre una gama de variantes con el objetivo de optimizar los recursos y aumentar la eficiencia operativa, es decir, ayuda a entender qué tenemos que hacer para obtener los resultados que queramos en el futuro.
-        .col-lg-4
+        .col-lg-4.col-sm-6
           img(src='@/assets/curso/temas/tema4/img04.png', alt='')
 
         .py-4
@@ -82,7 +82,7 @@
 
 
       .row.mb-5
-        .col-lg-12
+        .col-lg-12.col-12
           .tarjeta.tarjeta--gris.p-4.mb-5
             LineaTiempoC.color-acento-contenido(text-small)
               .row.justify-content-center(titulo="Minería de datos")
@@ -143,7 +143,7 @@
                   figcaption Nota. Adaptada de Raul Pulido (2.018)
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
-        .col-lg-4
+        .col-lg-4.col-8.my-2.col-sm-6
           img(src='@/assets/curso/temas/tema4/img10.png', alt='')
         .col-lg-8
           p Para #[em Big Data Internacional Campus (2.020) Data mining] es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El data mining reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.

@@ -11,7 +11,7 @@
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta bgfondo")
       .row(titulo="Análisis de Pareto")
-        .col-md-7.mb-4.mb-md-0.p-4
+        .col-md-7.mb-4.mb-md-0.p-4.col-sm-12
           p Es una técnica para analizar orígenes de problemas y las procedencias de sus causas, de igual forma, es una técnica que permite catalogar gráficamente la información de mayor a menor preeminencia, con el fundamento de identificar los problemas más trascendentales en los que se debe enfocar y solucionar, tiene como procedimiento generalizado:
           ul.lista-ul
             li
@@ -29,7 +29,7 @@
               i.fas.fa-angle-right
               | Construir una gráfica de barras con estos datos.
 
-        .col-md-4.blanco.p-4
+        .col-md-4.blanco.p-4.col-sm-6
           .titulo-sexto.color-secundario
               h5 Figura 7. 
               | Análisis de Pareto

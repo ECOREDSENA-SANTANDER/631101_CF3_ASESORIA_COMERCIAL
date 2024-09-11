@@ -8,7 +8,7 @@
       h1 Procesamiento de la información
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-lg-4
+      .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema3/img01.svg")
       .col-lg-8
         p Es un proceso que implica:
@@ -28,7 +28,7 @@
     TabsC.color-acento-botones(data-aos="zoom-in-left")
       .py-3.py-md-4(titulo="Recogida de los datos")
         .row.justify-content-center.align-items-center.p-4
-          .col-md-4
+          .col-md-4.col-8.my-2
             figure
               img(src='@/assets/curso/temas/tema3/img01.png', alt='')
           .col-md-6.mb-4.mb-md-0
@@ -49,7 +49,7 @@
           
       .py-3.py-md-4(titulo="Procesamiento de los datos")
         .row.justify-content-center.align-items-center.p-4(data-aos="zoom-in-left")
-            .col-md-4
+            .col-md-4.col-8.my-2
               figure
                 img(src='@/assets/curso/temas/tema3/img02.png', alt='')
             .col-md-6.mb-4.mb-md-0
@@ -75,7 +75,7 @@
         
       .py-3.py-md-4(titulo="Interpretación de los datos")
         .row.justify-content-center.align-items-center.p-4
-          .col-md-4
+          .col-md-4.col-8.my-2
             figure
               img(src='@/assets/curso/temas/tema3/img03.png', alt='')
           .col-md-6.mb-4.mb-md-0
@@ -84,7 +84,7 @@
         
       .py-3.py-md-4(titulo="Almacenamiento de los datos")
         .row.justify-content-center.align-items-center.p-4
-          .col-md-4
+          .col-md-4.col-8.my-2
             figure
               img(src='@/assets/curso/temas/tema3/img04.png', alt='')
           .col-md-6.mb-4.mb-md-0
