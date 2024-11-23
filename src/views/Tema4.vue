@@ -22,25 +22,25 @@
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-4.col-8.col-sm-6
-          img(src='@/assets/curso/temas/tema4/img02.png', alt='')
+          img.mb-2(src='@/assets/curso/temas/tema4/img02.png', alt='')
         .col-lg-8
           .cajon.color-acento-contenido.p-4.mb-4
             p Son todos los trabajos realizados previamente sobre el tema que se va a investigar y que aportan información relevante para nuestro trabajo. La página web de Quality Leadership University (QLE) indica que tradicionalmente en el análisis de antecedentes se verifica:
           ul.lista-ul
-            li
-              i.fas.fa-angle-right
+            li.d-flex.mb-2
+              i.fas.fa-check-circle
               | Los resultados de otras investigaciones o estudios.
-            li
-              i.fas.fa-angle-right
+            li.d-flex.mb-2
+              i.fas.fa-check-circle
               | La importancia de estos con relación al tema planteado.
             li
-              i.fas.fa-angle-right
+              i.fas.fa-check-circle
               | Título y autores del trabajo de referencia.
+            li.d-flex.mb-2
+              i.fas.fa-check-circle
+              p.mb-0 El planteamiento del problema, los objetivos e hipótesis planteadas por estos estudios o investigadores.
             li
-              i.fas.fa-angle-right
-              | El planteamiento del problema, los objetivos e hipótesis planteadas por estos estudios o investigadores.
-            li
-              i.fas.fa-angle-right
+              i.fas.fa-check-circle
               | Metodología utilizada. 
       
       Separador 
@@ -63,7 +63,7 @@
           .cajon.color-acento-contenido.p-4.mb-4
             p Por su parte, el análisis predictivo se conceptúa por parte del mismo blog Questionpro (2021) como una forma de análisis estadístico que se encomienda de conseguir información nueva o histórica y utilizarla para pronosticar patrones de conducta.
           p Por último, está el análisis prescriptivo se encarga de encontrar una solución entre una gama de variantes con el objetivo de optimizar los recursos y aumentar la eficiencia operativa, es decir, ayuda a entender qué tenemos que hacer para obtener los resultados que queramos en el futuro.
-        .col-lg-4.col-sm-6
+        .col-lg-4.col-sm-6.col-8
           img(src='@/assets/curso/temas/tema4/img04.png', alt='')
 
         .py-4
@@ -90,14 +90,14 @@
                   h4 Minería de datos
                   p Minería de datos es definida como el proceso de encontrar singularidades, elementos comunes y correspondencias en grandes agregados de datos para augurar conclusiones, empleando una amplia variedad de técnicas.  En conformidad con la página web de SAS la minería de datos le permite:
                   ul.lista-ul
-                    li
-                      i.fas.fa-angle-right
+                    li.d-flex.mb-2
+                      i.fas.fa-check-circle
                       | Filtrar todo el ruido caótico y repetitivo en sus datos. (datos que se repiten)
-                    li
-                      i.fas.fa-angle-right
+                    li.d-flex.mb-2
+                      i.fas.fa-check-circle
                       | Entender qué es relevante y luego hacer un buen uso de esa información para evaluar resultados probables. (datos significativos).
-                    li
-                      i.fas.fa-angle-right
+                    li.d-flex.mb-2
+                      i.fas.fa-check-circle
                       | Acelerar el ritmo de la toma de decisiones informadas.
                   p La minería de datos tiene seis fases: comprensión del negocio, comprensión de los datos, preparación de datos, modelado, evaluación y despliegue.
                 .col-lg-9.blanco.p-4
@@ -109,10 +109,10 @@
 
 
               .row.justify-content-center(titulo="<i>Business intelligence</i>")
-                .col-md-11.mb-4.mb-md-0
+                .col-md-11.mb-4.mb-md-0.col-lg-10
                     h4 #[em Business intelligence]
                     p Se conceptúa al conjunto de metodologías, aplicaciones, prácticas y capacidades enfocadas a la creación y administración de información que permite tomar mejores decisiones a los usuarios de una organización (Conesa y Curto, 2010, p18). Estas acciones pueden ser procesos, técnicas, metodologías, herramientas y tecnologías que generan información para que sirva de base para la toma de decisiones. En otras palabras la inteligencia de negocios o #[em business intelligence] (BI), mezcla lo más profundo del análisis de negocios con el trabajo del #[em big data] y la minería de datos, para obtener la información más expedita que  permita la mejor decisión posible en los escenarios posibles, minimizando siempre de esta forma los riesgos posibles.
-                .col-lg-10.blanco.p-4
+                .col-lg-10.blanco.p-4.col-sm-10
                     .titulo-sexto.color-secundario
                       h5 Figura 5.
                       |  Proceso #[em business intelligence] 
@@ -120,31 +120,31 @@
       
 
               .row.justify-content-center(titulo="Aprendizaje  automático")
-                .col-md-6
+                .col-md-11.mb-4.mb-md-0.col-lg-6
                   h4 Aprendizaje  automático
                   p Es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[em Machine Learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
-                .col-md-6
+                .col-lg-5.col-sm-9.blanco.p-4
                   img(src='@/assets/curso/temas/tema4/img08.png', alt='')
               
               
               
               .row.justify-content-center(titulo="Análisis del <i>Big Data</i>")
-                .col-md-6
+                .col-md-11.mb-4.mb-md-0.col-lg-6
                   .py-2
                   h4 Análisis del #[em Big Data]
                   .py-2
                   p El análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (#[em big data]) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2.020) define la “analítica de #[em big data]  como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de software tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65).
                   p Las fases del proceso de la analítica de grandes datos es la recolección de grandes magnitudes de datos, posteriormente existe todo un proceso de limpieza de esos datos, evitando los valores que constituyan ruido.
-                .col-md-5.blanco.p-4
+                .col-lg-5.col-sm-9.blanco.p-4
                   .titulo-sexto.color-secundario
                     h5 Figura 6.
                     | #[em Big Data] 
-                  img(src='@/assets/curso/temas/tema4/img09.png', alt='Texto alternativo: la imagen presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
+                  img.mb-2(src='@/assets/curso/temas/tema4/img09.png', alt='Texto alternativo: la imagen presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
                   figcaption Nota. Adaptada de Raul Pulido (2.018)
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
         .col-lg-4.col-8.my-2.col-sm-6
-          img(src='@/assets/curso/temas/tema4/img10.png', alt='')
+          img.mb-2(src='@/assets/curso/temas/tema4/img10.png', alt='')
         .col-lg-8
           p Para Big Data Internacional Campus (2.020) Data mining es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El data mining reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
           .cajon.color-acento-contenido.p-4.mb-4

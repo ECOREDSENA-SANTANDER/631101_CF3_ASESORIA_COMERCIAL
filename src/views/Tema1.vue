@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-8.col-sm-6
-        img(src='@/assets/curso/temas/tema1/img01.png', alt='')
+        img.mb-2(src='@/assets/curso/temas/tema1/img01.png', alt='')
       .col-lg-8
         p En el actual siglo XXI, una de sus principales características es la valía de la información para la toma de decisiones tanto empresariales, como ambientales y sociales; la sociedad vive en un mundo de permanente bombardeo de información en noticias de prensa, radio y televisión, pero con la masificación de la web y de las redes sociales, hoy en día el ser humano vive rodeado de información útil, pero también de información bastante inservible o inútil.    
         .cajon.color-acento-contenido.p-4.mb-4
@@ -30,13 +30,13 @@
               figcaption Datos - información y conocimientos.
 
 
-          .tarjeta.fondo-morado.p-3(x="20%" y="20%" numero="+")
+          .tarjeta.fondo-morado.p-3(x="25%" y="51%" numero="+")
             p #[b Datos:] es la diferenciación simbólica de una variable que puede ser clasificada como cualitativa o cuantitativa, indicando un valor representativo a dicha variable para su análisis, estudio y clasificación. Por ejemplo: Juan pesa 80 kilogramos, la expresión 80 es el valor representativo del peso de Juan que se mide en kilogramos.
 
-          .tarjeta.fondo-morado.p-3(x="50%" y="50%" numero="+")
+          .tarjeta.fondo-morado.p-3(x="48%" y="33%" numero="+")
             p #[b Información:] es la denominación que se le da a la agrupación organizada de datos significativos que describen sucesos, eventos y hechos, con cuyo procesamiento se puede construir un mensaje descriptivo y/o analítico.
 
-          .tarjeta.fondo-morado.p-3(x="70%" y="70%" numero="+")
+          .tarjeta.fondo-morado.p-3(x="73%" y="50%" numero="+")
             p #[b Conocimiento:] es la explicación e interpretación de la información producto de los procesos cognitivos de comparar, analizar, combinar o experimentar, permitiendo al sujeto la argumentación y la aplicación de la información.
     
     Separador 
@@ -45,7 +45,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.col-sm-6
-        img(src='@/assets/curso/temas/tema1/img02.png', alt='')
+        img.mb-2(src='@/assets/curso/temas/tema1/img02.png', alt='')
       .col-lg-8
         p.mb-4 Es importante estar debidamente informado sobre un propósito, porque no solamente permite desenrollar un punto de vista o postura respecto del mismo, sino también porque permite adelantarse  a un hecho o estar prevenidos sobre determinada situación.
         .cajon.color-acento-contenido.p-4.mb-4
@@ -71,25 +71,40 @@
       .col-md-6.col-lg.mb-lg-0
         .tarjeta-avatar
           .tarjeta.fondo-azul
+           
+
+      .col-md-6.col-lg.mb-lg-0
+        .tarjeta-avatar
+          .tarjeta.fondo-morado
+            
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-12.col-md-12.col-12
+        .tarjeta--container.row
+          .col-md.tarjeta.fondo-azul.p-4
             .row.justify-content-center.align-items-center.p-4
               .col-lg-2.py-2.col-4
                 img(src='@/assets/curso/temas/tema1/1.png', alt='')
               .col-lg-10
                 h2.text-center.titulo-morado.p-2 Fuentes de información primarias
               .col-lg-12
+                .py-3
                 p Son todas aquellas personas, empresas, organizaciones, los acontecimientos que aquejan o benefician a la sociedad, el propio medio ambiente natural de las donde  se obtienen información directa, es decir, de donde se origina la información, también son conocidas como fuentes de primera mano o desde el lugar de los hechos.
-
-      .col-md-6.col-lg.mb-lg-0
-        .tarjeta-avatar
-          .tarjeta.fondo-morado
+          .col-md.tarjeta.fondo-morado.p-4
             .row.justify-content-center.align-items-center.p-4
               .col-lg-2.py-2.col-4
                 img(src='@/assets/curso/temas/tema1/2.png', alt='')
               .col-lg-10
                 h2.text-center.titulo-morado.p-2 Fuentes de información secundarias
               .col-lg-12
+                .py-3
                 p Son todas aquellas revistas, libros, los documentales, los noticieros, medios de información y los documentos escritos (todo medio impreso físico o digital) que ofrecen información sobre el tema por investigar, pero que no son la fuente original de los hechos o situaciones, sino que los referencian.
                 br
+
+
+
+
+
+
 
       Separador 
       #t_1_4.titulo-segundo.mb-4.color-primario
@@ -128,7 +143,7 @@
       p La información tiene diversas formas de ser examinada y analizada, de ello, dependerá las conclusiones que sean pertinentes al proceso de investigación que se está desarrollando, por tanto, a continuación se presenta la conceptualización de las formas de análisis de la información.
 
       .row.justify-content-start.mb-4
-        .col-sm-12.col-lg-7.col-sm-6
+        .col-sm-12.col-lg-7.col-12
           .d-flex.align-items-center
             img.w-card-icon(src="@/assets/curso/temas/tema1/aro.svg")
             h3.bg13.py-2.w-card-text Análisis de la información
@@ -136,20 +151,20 @@
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-4.col-8
-          img(src="@/assets/curso/temas/tema1/img03.png")
-        .col-lg-8.col-12
-          h4.subrayado.mb-5 Investigación cualitativa
+          img.mb-2(src="@/assets/curso/temas/tema1/img03.png")
+        .col-lg-8.col-12.col-sm-12
+          h4.subrayado.mb-4 Investigación cualitativa
           p Según Sampieri (2.006) “se fundamentan más en un proceso inductivo (explorar y describir, y luego generar perspectivas teóricas), van de lo particular a lo general en el análisis de fenómenos sociales” (p 8).
           p Según  Báez (2.009) en su definición agrega el componente comercial muy de moda en los presentes contextos ofreciendo el concepto de investigación cualitativa como “el conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos” (p.35).
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-5
           h4 Ventajas y desventajas de la investigación cualitativa
-
-      .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-        .col-md-6.col-lg.mb-lg-0
-          .tarjeta-avatar
-            .tarjeta.fondo-azul
-              .row.justify-content-center.align-items-center.p-4
+              
+    .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
+      .col-lg-12.col-md-12.col-12
+        .tarjeta--container.row
+          .col-md.tarjeta.fondo-azul.p-4
+            .row.justify-content-center.align-items-center.p-4
                 .col-lg-2.py-2.col-4
                   img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
                 .col-lg-8
@@ -158,20 +173,17 @@
                 .col-lg-12
                   ul.lista-ul--color
                     li
-                      i.fas.fa-angle-right
+                      i.fas.fa-check-circle
                       | Permite profundización.
                     li
-                      i.fas.fa-angle-right
+                      i.fas.fa-check-circle
                       | Evaluación correspondencia verbal-corporal.
                     li
-                      i.fas.fa-angle-right
+                      i.fas.fa-check-circle
                       | Mayor rapidez.
 
-
-        .col-md-6.col-lg.mb-lg-0
-          .tarjeta-avatar
-            .tarjeta.fondo-morado
-              .row.justify-content-center.align-items-center.p-4
+          .col-md.tarjeta.fondo-morado.p-4
+            .row.justify-content-center.align-items-center.p-4
                 .col-lg-2.py-2.col-4
                   img(src='@/assets/curso/temas/tema1/desventaja.svg', alt='')
                 .col-lg-8
@@ -180,14 +192,13 @@
                 .col-lg-12
                   ul.lista-ul--color
                     li
-                      i.fas.fa-angle-right
+                      i.fas.fa-check-circle
                       |  No cuantifican.
                     li
-                      i.fas.fa-angle-right.mb-5
+                      i.fas.fa-check-circle
                       |  Poco personal especializado.
                 br
                 br
-
       .py-3
       .row.justify-content-center.mb-5(data-aos="zoom-in-left")
         .col-lg-8.col-12
@@ -200,11 +211,12 @@
         .col-lg-5
           h4 Ventajas y desventajas de la investigación cualitativa
 
-      .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-        .col-md-6.col-lg.mb-lg-0
-          .tarjeta-avatar
-            .tarjeta.fondo-azul
-              .row.justify-content-center.align-items-center.p-4
+            
+    .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
+      .col-lg-12.col-md-12.col-12
+        .tarjeta--container.row
+          .col-md.tarjeta.fondo-azul.p-4
+            .row.justify-content-center.align-items-center.p-4
                 .col-lg-2.py-2.col-4
                   img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
                 .col-lg-8
@@ -213,44 +225,35 @@
                 .col-lg-12
                   ul.lista-ul--color
                     li
-                      i.fas.fa-angle-right
-                      |  Permite hacer proyecciones.
+                      i.fas.fa-check-circle
+                      | Permite profundización.
                     li
-                      i.fas.fa-angle-right
-                      |  Mayor variedad de opiniones.
+                      i.fas.fa-check-circle
+                      | Evaluación correspondencia verbal-corporal.
                     li
-                      i.fas.fa-angle-right.mb-5
-                      |  Hace más tangible la relación causa/efecto.
-                .py-1
+                      i.fas.fa-check-circle
+                      | Mayor rapidez.
 
-        .col-md-6.col-lg.mb-lg-0
-          .tarjeta-avatar
-            .tarjeta.fondo-morado
-              .row.justify-content-center.align-items-center.p-4
+          .col-md.tarjeta.fondo-morado.p-4
+            .row.justify-content-center.align-items-center.p-4
                 .col-lg-2.py-2.col-4
-                  img(src='@/assets/curso/temas/tema1/desventaja.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/ventaja.svg', alt='')
                 .col-lg-8
-                  h2.text-center.titulo-morado.p-2 Desventajas
+                  h2.text-center.titulo-morado.p-2 Ventajas
                 .py-2
                 .col-lg-12
                   ul.lista-ul--color
                     li
-                      i.fas.fa-angle-right
-                      | Altos costos.
+                      i.fas.fa-check-circle
+                      |  Permite hacer proyecciones.
                     li
-                      i.fas.fa-angle-right
-                      |  Mayor tiempo.
+                      i.fas.fa-check-circle
+                      |  Mayor variedad de opiniones.
                     li
-                      i.fas.fa-angle-right
-                      |  No profundiza.
-                    li
-                      i.fas.fa-angle-right
-                      |  No registra reacciones.
-                    li
-                      i.fas.fa-angle-right
-                      |  Requiere más personal.
-        
-      Separador
+                      i.fas.fa-check-circle
+                      |  Hace más tangible la relación causa/efecto.
+          .py-3
+      
       .row.align-items-center.justify-content-center.mb-5
         .col-lg-12.col-md-12.col-12
           .caja1.p-4
