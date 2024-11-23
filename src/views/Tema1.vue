@@ -11,7 +11,7 @@
       .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/temas/tema1/img01.png', alt='')
       .col-lg-8
-        p En el actual siglo XXI, una de sus principales características es la valía de la información para la toma de decisiones tanto empresariales, como ambientales y sociales; la sociedad vive en un mundo de permanente bombardeo de información en noticias de prensa, radio y televisión, pero con la masificación de la web y de las redes sociales, hoy en día el ser humano vive rodeado de información útil pero también de información bastante inservible o inútil.    
+        p En el actual siglo XXI, una de sus principales características es la valía de la información para la toma de decisiones tanto empresariales, como ambientales y sociales; la sociedad vive en un mundo de permanente bombardeo de información en noticias de prensa, radio y televisión, pero con la masificación de la web y de las redes sociales, hoy en día el ser humano vive rodeado de información útil, pero también de información bastante inservible o inútil.    
         .cajon.color-acento-contenido.p-4.mb-4
           p Ahora bien, en los desempeños en que cotidianamente se desenvuelve la gran mayoría de las profesiones, oficios y artes, la información es trascendente en la toma de decisiones para el desempeño laboral. Para que este proceso de decisión sea lo más acertado posible es necesario determinar primero lo que es dato, información y generación de conocimientos.
 
@@ -22,21 +22,22 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p En el presente milenio la sociedad científica ha caracterizado y denominado a la población como la sociedad de la información según las expresiones de Ruiz de Querol (2.007), y es que ha sido tanta la exposición de la sociedad a todo tipo de información y en todos los momentos, que se ha convertido en una desventaja competitiva no hacer parte de esta sociedad del conocimiento, para esto es importante entender como los datos se convierten en conocimiento en el contexto contemporáneo.
+        p En el presente milenio la sociedad científica ha caracterizado y denominado a la población como la sociedad de la información, según las expresiones de Ruiz de Querol (2.007), y es que ha sido tanta la exposición de la sociedad a todo tipo de información y en todos los momentos, que se ha convertido en una desventaja competitiva no hacer parte de esta sociedad del conocimiento, para esto es importante entender como los datos se convierten en conocimiento en el contexto contemporáneo.
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/img02.svg', alt='Infografía puntos calientes')
-              figcaption Leyenda de la imagen
+              figcaption Datos - información y conocimientos.
+
 
           .tarjeta.fondo-morado.p-3(x="20%" y="20%" numero="+")
-            p #[b Datos] es la diferenciación simbólica de una variable que puede ser clasificada como cualitativa o cuantitativa, indicando un valor representativo a dicha variable para su análisis, estudio y clasificación. Por ejemplo: Juan pesa 80 kilogramos, la expresión 80 es el valor representativo del peso de Juan que se mide en kilogramos.
+            p #[b Datos:] es la diferenciación simbólica de una variable que puede ser clasificada como cualitativa o cuantitativa, indicando un valor representativo a dicha variable para su análisis, estudio y clasificación. Por ejemplo: Juan pesa 80 kilogramos, la expresión 80 es el valor representativo del peso de Juan que se mide en kilogramos.
 
           .tarjeta.fondo-morado.p-3(x="50%" y="50%" numero="+")
-            p #[b Información] es la denominación que se le da a la agrupación organizada de datos significativos que describen sucesos, eventos y hechos, con cuyo procesamiento se puede construir un mensaje descriptivo y/o analítico.
+            p #[b Información:] es la denominación que se le da a la agrupación organizada de datos significativos que describen sucesos, eventos y hechos, con cuyo procesamiento se puede construir un mensaje descriptivo y/o analítico.
 
           .tarjeta.fondo-morado.p-3(x="70%" y="70%" numero="+")
-            p #[b Conocimiento] es la explicación e interpretación de la información producto de los procesos cognitivos de comparar, analizar, combinar o experimentar, permitiendo al sujeto la argumentación y la aplicación de la información.
+            p #[b Conocimiento:] es la explicación e interpretación de la información producto de los procesos cognitivos de comparar, analizar, combinar o experimentar, permitiendo al sujeto la argumentación y la aplicación de la información.
     
     Separador 
     #t_1_2.titulo-segundo.mb-4.color-primario
@@ -57,7 +58,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-lg-12
-        p Por fuente de información se entiende cualquier instrumento o en un sentido más amplio, recurso, que permita satisfacer una necesidad informativa. La expresión fuente se entiende entonces, como el documento, sitio, lugar, página, domicilio, persona natural o jurídica, en donde se encuentra la información que necesita un demandante de la misma.
+        p Por fuente de información se entiende, cualquier instrumento o en un sentido más amplio, recurso, que permita satisfacer una necesidad informativa. La expresión fuente se entiende entonces, como el documento, sitio, lugar, página, domicilio, persona natural o jurídica, en donde se encuentra la información que necesita un demandante de la misma.
     
     .row.justify-content-start.mb-3
       .col-sm-12.col-lg-7
@@ -96,12 +97,12 @@
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-12
-          p En el presente milenio la sociedad científica ha caracterizado y denominado a la población como la sociedad de la información según las expresiones de Ruiz de Querol (2.007), y es que ha sido tanta la exposición de la sociedad a todo tipo de información y en todos los momentos, que se ha convertido en una desventaja competitiva no hacer parte de esta sociedad del conocimiento, para esto es importante entender como los datos se convierten en conocimiento en el contexto contemporáneo.
+          p Debe entenderse que los procesos de recolección de la información constan una gran multiplicidad de técnicas o herramientas para la recopilación de la misma, las técnicas más usadas son:
           ImagenInfografica.color-primario
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema1/img03.svg', alt='Infografía puntos calientes')
-                figcaption Leyenda de la imagen
+                figcaption Técnicas de recolección de la información.
 
             .tarjeta.fondo-morado.p-3(x="19%" y="38%" numero="+")
               p #[b La encuesta], según Bernal (2.000), “una de las técnicas más reconocidas y utilizadas, a pesar de que ha perdido credibilidad por  el sesgo que hay en las personas encuestadas y por el uso cada vez más frecuente de TIC´S” (p.172). 
@@ -111,10 +112,10 @@
               p #[b La entrevista] es una técnica orientada a obtener una conversación estructurada con las personas con apropiación de la información, la entrevista a pesar de manejar un cuestionario base con el cual se establecerá una comunicación dialógica con el entrevistado, permite la flexibilidad de ampliar la respuesta del entrevistado con nuevas preguntas.
 
             .tarjeta.fondo-morado.p-3(x="50%" y="78%" numero="+")
-              p #[b La observación] directa cada día cobra mayor fuerza y credibilidad, y cada vez tiende a generalizarse más, dado que permite la obtención de información directa y confiable, siempre que medie un procedimiento sistematizado y supervisado, para lo cual hoy en día se utilizan medios audiovisuales muy completos y con alto componente tecnológico en las industrias 4.0, permite estudios de comportamiento del consumidor, del personal en el puesto de trabajo, estímulos basados en percepciones sensoriales en pruebas de productos, entre otros.
+              p #[b La observación directa] cada día cobra mayor fuerza y credibilidad, y cada vez tiende a generalizarse más, dado que permite la obtención de información directa y confiable, siempre que medie un procedimiento sistematizado y supervisado, para lo cual hoy en día se utilizan medios audiovisuales muy completos y con alto componente tecnológico en las industrias 4.0, permite estudios de comportamiento del consumidor, del personal en el puesto de trabajo, estímulos basados en percepciones sensoriales en pruebas de productos, entre otros.
 
             .tarjeta.fondo-morado.p-3(x="70%" y="67%" numero="+")
-              p #[b El análisis] de documentos se utiliza bajo los criterios de fichas bibliográficas que analizan material impreso o digital, su principal uso está en la elaboración del marco teórico del estudio.
+              p #[b El análisis de documentos] se utiliza bajo los criterios de fichas bibliográficas que analizan material impreso o digital, su principal uso está en la elaboración del marco teórico del estudio.
             
             .tarjeta.fondo-morado.p-3(x="80%" y="37%" numero="+")
               p #[b La búsqueda web] o consulta de bases de datos, páginas web, bloog´s, en la red virtual se ha convertido en técnica de recolección de información por excelencia de toda la sociedad. 
@@ -124,7 +125,7 @@
       #t_1_5.titulo-segundo.mb-4.color-primario
         h2 1.5 Técnicas de análisis de la información
 
-      p La información tiene diversas formas de ser examinada y analizada, de ello, dependerá las conclusiones que sean pertinentes al proceso de investigación que se está desarrollando, por tanto a continuación se presenta la conceptualización de las formas de análisis de la información.
+      p La información tiene diversas formas de ser examinada y analizada, de ello, dependerá las conclusiones que sean pertinentes al proceso de investigación que se está desarrollando, por tanto, a continuación se presenta la conceptualización de las formas de análisis de la información.
 
       .row.justify-content-start.mb-4
         .col-sm-12.col-lg-7.col-sm-6
@@ -158,13 +159,13 @@
                   ul.lista-ul--color
                     li
                       i.fas.fa-angle-right
-                      | Permite profundización
+                      | Permite profundización.
                     li
                       i.fas.fa-angle-right
-                      | Evaluación correspondencia verbal-corporal
+                      | Evaluación correspondencia verbal-corporal.
                     li
                       i.fas.fa-angle-right
-                      | Mayor rapidez
+                      | Mayor rapidez.
 
 
         .col-md-6.col-lg.mb-lg-0
@@ -180,10 +181,10 @@
                   ul.lista-ul--color
                     li
                       i.fas.fa-angle-right
-                      |  No cuantifican
+                      |  No cuantifican.
                     li
                       i.fas.fa-angle-right.mb-5
-                      |  Poco personal especializado
+                      |  Poco personal especializado.
                 br
                 br
 
@@ -213,13 +214,13 @@
                   ul.lista-ul--color
                     li
                       i.fas.fa-angle-right
-                      |  Permite hacer proyecciones
+                      |  Permite hacer proyecciones.
                     li
                       i.fas.fa-angle-right
-                      |  Mayor variedad de opiniones
+                      |  Mayor variedad de opiniones.
                     li
                       i.fas.fa-angle-right.mb-5
-                      |  Hace más tangible la relación causa/efecto
+                      |  Hace más tangible la relación causa/efecto.
                 .py-1
 
         .col-md-6.col-lg.mb-lg-0
@@ -235,19 +236,19 @@
                   ul.lista-ul--color
                     li
                       i.fas.fa-angle-right
-                      | Altos costos
+                      | Altos costos.
                     li
                       i.fas.fa-angle-right
-                      |  Mayor tiempo
+                      |  Mayor tiempo.
                     li
                       i.fas.fa-angle-right
-                      |  No profundiza
+                      |  No profundiza.
                     li
                       i.fas.fa-angle-right
-                      |  No registra reacciones
+                      |  No registra reacciones.
                     li
                       i.fas.fa-angle-right
-                      |  Requiere más personal
+                      |  Requiere más personal.
         
       Separador
       .row.align-items-center.justify-content-center.mb-5

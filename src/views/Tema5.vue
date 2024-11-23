@@ -19,7 +19,7 @@
               |Identifica el problema que deseas analizar, es prioritario identificar el problema que está afectando el hecho, evento, situación a investigar.
             li
               i.fas.fa-angle-right
-              |Agrupar los datos que ayudan a evaluar el problema, identificando en las categorías o problemas (eje de las y) y la frecuencia de ocurrencia de esos problemas (eje de las x)
+              |Agrupar los datos que ayudan a evaluar el problema, identificando en las categorías o problemas (eje de las y) y la frecuencia de ocurrencia de esos problemas (eje de las x).
 
             li
               i.fas.fa-angle-right
@@ -34,7 +34,7 @@
               h5 Figura 7. 
               | Análisis de Pareto
           figure
-            img(src='@/assets/curso/temas/tema5/img01.png', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos')
+            img(src='@/assets/curso/temas/tema5/img01.png', alt='La figura presenta una gráfica con varias barras azules, y una línea roja que uno puntos rojos.')
             figcaption Nota. Adaptada de Jose Marcondes (2.020)
 
       .row.justify-content-center.p-4(titulo="Diagrama de causa efecto")
@@ -45,7 +45,7 @@
               h5 Figura 8. 
               | Diagrama de causa y efecto
           figure
-            img(src='@/assets/curso/temas/tema5/img02.png', alt='La figura presenta un gráfico tipo espina de pescado')
+            img(src='@/assets/curso/temas/tema5/img02.png', alt='La figura presenta un gráfico tipo espina de pescado.')
             figcaption Nota. Adaptada de IBM (2.007)
       
       .row.justify-content-center(titulo="Gráficas de control")
@@ -60,11 +60,11 @@
               | Diagramas R o diagramas de control para variabilidad en los procesos.
             li
               i.fas.fa-angle-right
-              | Diagramas o diagramas de control para atributos.(p 528)
+              | Diagramas o diagramas de control para atributos.(p 528).
         .col-md-5.blanco.p-4
           .titulo-sexto.color-secundario
               h5 Figura 9. 
-              | Diagrama de causa y efecto
+              | Gráfico de control X-R.
           figure
             img(src='@/assets/curso/temas/tema5/figura9.png', alt='la grafica presenta  puntos situados en un zigzag irregural unidos por una línea azul.')
             figcaption Nota. Adaptada de Grupo 10 (2.015)
@@ -78,7 +78,7 @@
               h5 Figura 10. 
               | Histograma
           figure
-            img(src='@/assets/curso/temas/tema5/figura10.png', alt='La grafica presenta varias barras de color azul')
+            img(src='@/assets/curso/temas/tema5/figura10.png', alt='La grafica presenta varias barras de color azul.')
             figcaption Nota. Adaptada de Marta (2.019)
         .col-md-5.blanco.p-4
           p Polígonos de frecuencia son representaciones gráficas que reflejan una imagen veloz de los más importantes rasgos de los datos de una distribución de frecuencias.
@@ -95,7 +95,7 @@
           ul.lista-ul
             li
               i.fas.fa-angle-right
-              | La media o promedio aritmético es la sumatoria de un conjunto de frecuencias divididos por la cantidad total de los mismos
+              | La media o promedio aritmético es la sumatoria de un conjunto de frecuencias divididos por la cantidad total de los mismos.
 
             li
               i.fas.fa-angle-right
@@ -111,7 +111,7 @@
               h5 Figura 12. 
               | Tendencia central 
           figure
-            img(src='@/assets/curso/temas/tema5/figura12.png', alt='la figura presenta tres gráficas tipo montaña: asimétrica hacia la izquierda, simétrica y asimétrica hacia la derecha; en las tres se señala la media, la mediana y la moda')
+            img(src='@/assets/curso/temas/tema5/figura12.png', alt='la figura presenta tres gráficas tipo montaña: asimétrica hacia la izquierda, simétrica y asimétrica hacia la derecha; en las tres se señala la media, la mediana y la moda.')
             figcaption Nota. Adaptada de estudiar física.wordpress (2.009)
 
       .row.justify-content-center(titulo="Medidas de dispersión").p-4
@@ -131,7 +131,7 @@
               h5 Figura 13. 
               | Medidas de dispersión
           figure
-            img(src='@/assets/curso/temas/tema5/figura13.png', alt='Texto alternativo: la figura presenta una grafica tipo montaña donde se señala la le media -1, la media y la media +1')
+            img(src='@/assets/curso/temas/tema5/figura13.png', alt='la figura presenta una grafica tipo montaña donde se señala la le media - 1, la media y la media + 1.')
             figcaption Nota. Adaptada de matemáticas con tecnología                  
       
       .row.justify-content-center(titulo="Pruebas estadísticas").p-4
@@ -150,7 +150,7 @@
 
             li
               i.fas.fa-angle-right
-              | Análisis de covarianza según Bernal (2006) es una prueba que se utiliza para analizar y determinar la relación entre una variable dependiente y dos o más variables independientes. (p 181)
+              | Análisis de covarianza según Bernal (2006) es una prueba que se utiliza para analizar y determinar la relación entre una variable dependiente y dos o más variables independientes. (p 181).
 
             li
               i.fas.fa-angle-right

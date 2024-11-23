@@ -55,7 +55,7 @@
             .col-md-6.mb-4.mb-md-0
               h4 Procesamiento de los datos
               p Debe efectuarse mediante el uso de herramientas estadísticas apoyadas en 
-              p software reconocidos por la comunidad científica, que hoy fácilmente se encuentran en el mercado. Para realizar la actividad de procesar los datos se siguen unos pasos de los cuales Bernal (2.003) postula lo siguiente:
+              p #[em software] reconocidos por la comunidad científica, que hoy fácilmente se encuentran en el mercado. Para realizar la actividad de procesar los datos se siguen unos pasos de los cuales Bernal (2.003) postula lo siguiente:
               ul.lista-ul
                 li
                   i.fas.fa-angle-right
@@ -65,7 +65,7 @@
                   | Definir las variables o criterios para ordenar los datos obtenidos.
                 li
                   i.fas.fa-angle-right
-                  | Definir las herramientas estadísticas y  software reconocidos por la comunidad científica. 
+                  | Definir las herramientas estadísticas y  #[em software] reconocidos por la comunidad científica. 
                 li
                   i.fas.fa-angle-right
                   | Introducir los datos en el computador y activar el programa para que procese la información. 

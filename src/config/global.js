@@ -27,8 +27,28 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
+            titulo: 'Datos, información y conocimiento',
+            hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Importancia de la información',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Fuentes de información',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Técnicas de recolección de información',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Análisis de la información',
+            hash: 't_1_5',
           },
         ],
       },
@@ -40,8 +60,13 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Infografía Animada',
+            titulo: 'Tipos de variables',
             hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Clasificación de las variables',
+            hash: 't_2_2',
           },
         ],
       },
@@ -50,14 +75,7 @@ export default {
         numero: '3',
         titulo: 'Procesamiento de la información',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_3_1',
-          },
-        ],
+        subMenu: [],
       },
       {
         nombreRuta: 'tema4',
@@ -67,9 +85,18 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+            titulo: 'Antecedentes',
             hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Tipos de análisis',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Técnicas de análisis de datos',
+            hash: 't_4_3',
           },
         ],
       },
@@ -78,14 +105,7 @@ export default {
         numero: '5',
         titulo: 'Técnicas de evaluación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '5.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_5_1',
-          },
-        ],
+        subMenu: [],
       },
       {
         nombreRuta: 'tema6',
@@ -95,9 +115,13 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+            titulo: 'Informes',
             hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Tipos de informes',
+            hash: 't_6_2',
           },
         ],
       },
@@ -150,132 +174,236 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Bernal T cesar Augusto. (2.003) Metodología de la investigación aplicada para administración y economía. Editorial Prentice Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Big Data Internacional Campus (2.020). Data mining vs Big data. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.campusbigdata.com/big-data-blog/item/82-data-mining-vs-big-data',
+    },
+    {
+      referencia: 'Conceptos. (2018). Minería de datos. ',
+      link: 'https://mineriadedatos1.blogspot.com/2018/10/conceptos.html ',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Conesa Caralt Jordi, Curto Diaz Josep. (2010). Introducción al Bussines Intelligence. Editorial UOC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dertiano Victor. (2014). ¿Qué es Business Intelligence? Beneficios del BI.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://bigeek.medium.com/qu%C3%A9-es-business-intelligence-509d6a12fdf3',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Espinoza Freire, Eudaldo. (2018). Las variables y su operacionalización en la investigación educativa. Scielo. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442018000500039  ',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Fernández Jorge. (2016). Investigación Cualitativa Vs Investigación Cuantitativa. Investigación y docencia ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.investigacion360.com/2017/02/investigacion-cualitativa-vs-investigacion-cuantitativa.html  ',
+    },
+    {
+      referencia: 'Florencia. (2013). Importancia de la información. ',
+      link: 'https://www.importancia.org/informacion.php  ',
+    },
+    {
+      referencia: 'Grupo 10. (2015). Tipos de gráficas de control.',
+      link:
+        '. http://grupo10direccion.blogspot.com/2015/06/tipos-de-graficas-de-control-1.html  ',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Hernández Macario. (2008). El control estadístico del proceso. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://optyestadistica.wordpress.com/2008/06/11/el-control-estadistico-de-proceso-3-de-3/  ',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Hernández Noelia. (2019). Esto es lo que puede hacer la Inteligencia Artificial por la educación. Educación 3.0 ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.educaciontrespuntocero.com/tecnologia/poencial-ia-en-educacion/',
+    },
+    {
+      referencia:
+        'Hidalgo Nuchera Antonio, León Serrano Gonzalo, Pavon Morote Julián. (2013). la gestión de la innovación y la tecnología en las organizaciones. Editorial Pirámide.',
+      link: '',
+    },
+    {
+      referencia: 'Khan academy. (2018) Polígonos de frecuencia. ',
+      link:
+        'https://es.khanacademy.org/math/2-secundaria-pe/xf4e5558599a475b6:probabilidad-y-estadistica-2sec/xf4e5558599a475b6:preguntas-estadisticas-representacion-de-datos-a-traves-de-histogramas-y-poligonos-de-frecuencia/a/81817-artculo-polgonos-de-frecuencia  ',
+    },
+    {
+      referencia:
+        'Higuita David. (2016). Analítica y productividad aplicada al ruteo de vehículos. ',
+      link:
+        'https://www.grupobancolombia.com/wps/portal/empresas/capital-inteligente/entorno-empresarial/tendencias/analitica-y-productividad  ',
+    },
+    {
+      referencia:
+        'IBM. (2007). Análisis de causa raíz: el diagrama de espina de pescado. ',
+      link:
+        'https://managing-ils-reporting.itcilo.org/es/herramientas/root-cause-analysis-the-fishbone-diagramme/',
+    },
+    {
+      referencia:
+        'Lam Diaz Rosa. (2016).  La redacción de un artículo científico. ',
+      link:
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0864-02892016000100006  ',
+    },
+    {
+      referencia:
+        'Biblioguias: Gestión del Conocimiento (GDC): 1.3 Datos, Información y Conocimiento. (2017).  ',
+      link: 'https://biblioguias.cepal.org/c.php?g=738015&p=5789030',
+    },
+    {
+      referencia: 'Marta. (2019). ¿Qué es un Histograma?  Super prof ',
+      link:
+        'https://www.superprof.es/apuntes/escolar/matematicas/estadistica/descriptiva/histograma.html    ',
+    },
+    {
+      referencia:
+        'Lind Douglas A, Marchal William E, Wathen Samuel A. (2.008). Estadística aplicada a los negocios y la economía. MC Graw Hill Interamericana.',
+      link: '',
+    },
+    {
+      referencia: 'Marcondes José. (2020). Diagrama ou grafico de Pareto. ',
+      link:
+        'https://gestaodesegurancaprivada.com.br/diagrama-ou-grafico-de-pareto-conceito/    ',
+    },
+    {
+      referencia:
+        'Pulido Raúl. (2018).   Como iniciarse en el Big Data y el Análisis de Datos y no morir en el intento: La limpieza de datos. Puentes digitales ',
+      link:
+        'https://puentesdigitales.com/2018/02/09/como-iniciarse-en-el-big-data-y-el-analisis-de-datos-y-no-morir-en-el-intento-la-limpieza-de-datos/  ',
+    },
+    {
+      referencia:
+        'Quality Leadership University. (2020). Ejemplos de antecedentes de un anteproyecto ',
+      link: 'https://qlu.ac.pa/ejemplos-antecedentes-anteproyecto/  ',
+    },
+    {
+      referencia: 'Questionpro. (2021). ¿Qué es el análisis descriptivo? ',
+      link: ' https://www.questionpro.com/blog/es/analisis-descriptivo/   ',
+    },
+    {
+      referencia:
+        'Rodal Montero Enrique, 2.020, Industrias 4.0. Editorial Pirámide.',
+      link: '',
+    },
+    {
+      referencia:
+        'SAS. (2021). minería de datos, ¿Qué es y porqué es importante?  ',
+      link: 'https://www.sas.com/es_co/insights/analytics/data-mining.html  ',
+    },
+    {
+      referencia:
+        'Temas de enfermería. (2012). La media aritmética en medidas de tendencia central. ',
+      link:
+        'https://temasdeenfermeria.com.ar/2012/06/la-media-aritmetica-en-medidas-de-tendencia-central/  ',
+    },
+    {
+      referencia:
+        'Samperi Hernández Roberto, 2.006, Metodología de la investigación. Editorial Mc Graw Hill',
+      link: '',
+    },
+    {
+      referencia:
+        'Suarez R. Pedro Alejandro, 2.001, Metodología de la investigación diseños y técnicas. Orión editores.',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Base de datos',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Las bases de datos son una herramienta fundamental en el entorno informático hoy en día y tienen aplicación en la práctica totalidad de campos como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.  ',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Conocimiento',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es la explicación e interpretación de la información producto de los procesos cognitivos de comparar, analizar, combinar o experimentar, permitiendo al sujeto la argumentación y la aplicación de la información. ',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Datos',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Son la diferenciación simbólica de una variable que puede ser clasificada como cualitativa o cuantitativa, indicando un valor representativo a dicha variable para su análisis, estudio y clasificación. ',
     },
     {
-      termino: '<em>Áctores</em>',
+      termino: 'Encuesta',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas',
     },
     {
-      termino: 'Moda',
+      termino: 'Entrevista',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'La entrevista es una charla en la que una persona hace a otra una serie de preguntas sobre un tema determinado.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Información',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es la denominación que se le da a la agrupación organizada de datos significativos que describen sucesos, eventos y hechos, con cuyo procesamiento se puede construir un mensaje descriptivo y/o analítico. ',
     },
     {
-      termino: 'DIseño',
+      termino: 'Información cualitativa',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es un método de estudio y análisis que se propone evaluar e interpretar información obtenida a través de recursos como entrevistas, conversaciones, memorias y registros documentales. ',
     },
     {
-      termino: 'Tipología',
+      termino: 'Información cuantitativa',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Método estructurado de recopilación y análisis de información que se obtiene a través de diversas fuentes. Este proceso se lleva a cabo con el uso de herramientas estadísticas y matemáticas con el propósito de cuantificar el problema de investigación.  ',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Observación',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: '1.1 La información',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Pérez, J. (2008) concepto de información. https://definicion.de/informacion/',
+      tipo: 'Otro (Página web)',
+      link: 'https://definicion.de/informacion/ ',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: '3.	Variables de la información',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Questionpro (2021) cuales son los tipos de variables de la información https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
+      tipo: 'Otro (Página web)',
+      link:
+        'https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/ ',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: '4.	Procesamiento de la información',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Espinoza F. (2018). Las variables y su operacionalización en la investigación educativa. Scielo. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442018000500039 ',
+      tipo: 'Otro (Página web)',
+      link: 'http://www.scielo.org.pe/pdf/biblios/n75/a05n75.pdf ',
+    },
+    {
+      tema: '5.	Análisis de datos',
+      referencia:
+        'Rodríguez, J. (2024, enero 17). Qué es el análisis de datos: definición, etapas y ejemplos. Mundo Posgrado. https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
+      tipo: 'Otro (Página web)',
+      link: 'https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
+    },
+    {
+      tema: '6. Informes ',
+      referencia:
+        'Equipo editorial etece. (2021) Concepto, informes https://concepto.de/informe/',
+      tipo: 'Otro (Página web)',
+      link: 'https://concepto.de/informe/ ',
     },
   ],
   creditos: [
@@ -284,13 +412,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Nombre centro de formación',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -298,9 +426,30 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Laureano E. Ruidiaz Polo',
+          cargo: 'Instructor grado 16',
+          centro: 'SENA REGIONAL BOLÍVAR, Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Zenith Chinchilla Ruedas',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Revisora Metodológica y Pedagógica ',
+          centro: 'Regional Distrito Capital- Centro de Diseño y Metrología ',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Revisión y corrección de estilo',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -308,19 +457,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de contenidos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Full-Stack',
-          centro: 'Nombre centro de formación',
+          nombre: 'Leonardo Castellanos Rodriguez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Productor Multimedia',
-          centro: 'Nombre centro de formación',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productor multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -328,14 +477,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y Vinculador de RED',
-          centro: 'Nombre centro formación',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
