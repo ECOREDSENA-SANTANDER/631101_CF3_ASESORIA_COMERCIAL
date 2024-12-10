@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-8.col-sm-6
-        img.mb-2(src='@/assets/curso/temas/tema1/img01.png', alt='')
+        img.mb-2(src='@/assets/curso/temas/tema1/img01.svg', alt='')
       .col-lg-8
         p En el actual siglo XXI, una de sus principales características es la valía de la información para la toma de decisiones tanto empresariales, como ambientales y sociales; la sociedad vive en un mundo de permanente bombardeo de información en noticias de prensa, radio y televisión, pero con la masificación de la web y de las redes sociales, hoy en día el ser humano vive rodeado de información útil, pero también de información bastante inservible o inútil.    
         .cajon.color-acento-contenido.p-4.mb-4
