@@ -141,7 +141,7 @@
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | Prueba t de #[em student] es un medidor estadístico para poblaciones menores o iguales a 30.
+              | Prueba t de #[em.px-1 student] es un medidor estadístico para poblaciones menores o iguales a 30.
             li.d-flex.mb-2
               i.fas.fa-check-circle
               | Prueba z es una prueba para distribuciones normales, que muestra la posibilidad que un data aparezca reflejado en la distribución de frecuencias.
