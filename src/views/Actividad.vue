@@ -2,103 +2,202 @@
 .curso-main-container.pb-3
   BannerInterno(icono="far fa-question-circle" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.h-100.d-flex.align-items-center.p-4
-          figure
-            img(src="@/assets/template/seleccion-multiple.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Actividad didáctica 1
-        p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
-        .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Descripción de la actividad didáctica.
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
 
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.h-100.d-flex.align-items-center.p-4
-          figure
-            img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Actividad didáctica 2
-        p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
-        .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Descripción de la actividad didáctica.
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
-
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.h-100.d-flex.align-items-center.p-4
-          figure
-            img(src="@/assets/template/completar-espacios.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Actividad didáctica 3
-        p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
-        .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Descripción de la actividad didáctica.
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
-
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.h-100.d-flex.align-items-center.p-4
-          figure
-            img(src="@/assets/template/sopa-letras-crucigrama.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Actividad didáctica 4
-        p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
-        .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Descripción de la actividad didáctica.
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
-
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.h-100.d-flex.align-items-center.p-4
-          figure
-            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Actividad didáctica 5
-        p.mb-4 Cras tempus tortor et nisi tincidunt feugiat. Integer lacus ante, venenatis nec fringilla quis, dapibus ut dui. Fusce imperdiet velit a leo sagittis, id scelerisque massa placerat. Duis at dui sed enim euismod pulvinar quis ac ante. Phasellus condimentum sapien nisi, ac facilisis purus tristique ac. Quisque magna est, luctus vitae elit ut, convallis venenatis justo. Nunc pretium elit a nisi tempus sagittis.
-        .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Descripción de la actividad didáctica.
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
+    #Actividad                
+      <Actividad :cuestionario="cuestionario" />
 
 </template>
 
 <script>
+import Actividad from '@/components/actividad/Actividad'
 export default {
-  name: 'Actividad',
+  name: 'ActividadDidactica',
+  components: { Actividad },
+  data: () => ({
+    cuestionario: {
+      tema: 'Manejo de la información',
+      titulo: 'Cuestionario',
+      introduccion:
+        '<b> Objetivo:</b> Con esta actividad, los aprendices podrán darse cuenta de su conocimiento en cuanto al manejo de la información y sus tipos de análisis con el fin de minimizar la incertidumbre y el riesgo en el mercado.',
+      barajarPreguntas: false,
+      preguntas: [
+        {
+          id: 1,
+          texto:
+            'Técnica orientada a obtener una conversación estructurada con las personas con apropiación de la información.',
+          imagen: require('@/assets/componentes/img01.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Entrevista', esCorrecta: true },
+            { id: 'b', texto: 'Investigación cuantitativa', esCorrecta: false },
+            { id: 'c', texto: 'Análisis cualitativo', esCorrecta: false },
+            { id: 'd', texto: 'Análisis prescriptivo', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 2,
+          texto:
+            'Es un método de investigación en el que el investigador recolecta datos numéricos de los objetos, fenómenos o participantes.',
+          imagen: require('@/assets/componentes/img02.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Entrevista', esCorrecta: false },
+            { id: 'b', texto: 'Investigación cuantitativa', esCorrecta: true },
+            { id: 'c', texto: 'Análisis cualitativo', esCorrecta: false },
+            { id: 'd', texto: 'Análisis prescriptivo', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 3,
+          texto:
+            'Proceso mediante el cual se extraen conclusiones de datos no estructurados y heterogéneos que no son expresados de forma numérica o cuantificable.',
+          imagen: require('@/assets/componentes/img03.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Entrevista',
+              esCorrecta: false,
+            },
+            { id: 'b', texto: 'Investigación cuantitativa', esCorrecta: false },
+            { id: 'c', texto: 'Análisis cualitativo', esCorrecta: false },
+            { id: 'd', texto: 'Análisis prescriptivo', esCorrecta: true },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 4,
+          texto:
+            'Tipo de análisis que se encarga de encontrar una solución entre una gama de variantes con el objetivo de optimizar los recursos y aumentar la eficiencia operativa.',
+          imagen: require('@/assets/componentes/img04.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Entrevista',
+              esCorrecta: false,
+            },
+            { id: 'b', texto: 'Investigación cuantitativa', esCorrecta: false },
+            { id: 'c', texto: 'Análisis cualitativo', esCorrecta: false },
+            { id: 'd', texto: 'Análisis prescriptivo', esCorrecta: true },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 5,
+          texto:
+            'La minería de datos es el proceso de encontrar singularidades, elementos comunes y correspondencias en grandes agregados de datos para augurar conclusiones, empleando una amplia variedad de técnicas.',
+          imagen: require('@/assets/componentes/img01.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 6,
+          texto:
+            'La distribución de frecuencias indica el número de veces que ocurre cada valor o dato en una tabla de resultados.',
+          imagen: require('@/assets/componentes/img02.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 7,
+          texto:
+            'El <i>Machine Learning</i> es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos, otorga a los computadores de la capacidad de asemejar estándares en datos mínimos y elaborar predicciones exactas.',
+          imagen: require('@/assets/componentes/img03.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: false,
+            },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 8,
+          texto:
+            'La principal diferencia entre <i>big data</i> y <i>data mining</i> (grandes datos y minería de datos) se halla en que <i>data mining</i> se refiere a operaciones que implican búsquedas sofisticadas para la obtención de datos específicos y concretos dentro del gran mundo de los datos (<i>big data</i>).',
+          imagen: require('@/assets/componentes/img04.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: false,
+            },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 9,
+          texto:
+            'Las variables continuas son valores que cambian en carácter progresivo y no a irrupciones o de otra condición, tienen una disposición que no puede alterarse.',
+          imagen: require('@/assets/componentes/img01.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 10,
+          texto:
+            ' La variable ordinal es un tipo de variable estadística de tipo cualitativo que expresa con palabras una cualidad de naturaleza ordenable.',
+          imagen: require('@/assets/componentes/img02.png'),
+          barajarRespuestas: false,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+      ],
+      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_reprobado:
+        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+    },
+  }),
+  computed: {},
+  methods: {},
 }
 </script>
-
-<style lang="sass"></style>

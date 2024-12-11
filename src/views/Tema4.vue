@@ -125,7 +125,7 @@
                   p Es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[em Machine Learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
                 .col-lg-5.col-sm-9.blanco.p-4
                   img(src='@/assets/curso/temas/tema4/img08.png', alt='')
-              
+                  figcaption Nota: Adaptada de Noelia Hernandez (2019)
               
               
               .row.justify-content-center(titulo="Análisis del <i>Big Data</i>")
@@ -133,7 +133,7 @@
                   .py-2
                   h4 Análisis del #[em Big Data]
                   .py-2
-                  p El análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (#[em big data]) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2.020) define la “analítica de #[em big data]  como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de software tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65).
+                  p El análisis de ‘grandes datos’ es el proceso de inspeccionar grandes cantidades de datos de una diversidad de tipos (#[em big data]) para descubrir patrones escondidos u ocultos, correspondencias inéditas u otra información útil, para generar información que posteriormente se convierta en conocimiento y aprendizaje en la toma asertiva de decisiones. Según Rodal Montero (2.020) define la “analítica de #[em big data]  como  la recolección, gestión y análisis a alta velocidad de grandes, dinámicos y heterogéneos volúmenes de datos generados por usuarios y máquinas, que debido a su tamaño y complejidad superan las capacidades de procesamiento de las herramientas de #[em software] tradicionales, por lo que requieren técnicas innovadoras para su procesamiento y tratamiento”. (p 65).
                   p Las fases del proceso de la analítica de grandes datos es la recolección de grandes magnitudes de datos, posteriormente existe todo un proceso de limpieza de esos datos, evitando los valores que constituyan ruido.
                 .col-lg-5.col-sm-9.blanco.p-4
                   .titulo-sexto.color-secundario
@@ -146,9 +146,9 @@
         .col-lg-4.col-8.my-2.col-sm-6
           img.mb-2(src='@/assets/curso/temas/tema4/img10.png', alt='')
         .col-lg-8
-          p Para Big Data Internacional Campus (2.020) Data mining es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El data mining reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
+          p Para Big Data Internacional Campus (2.020) #[em Data mining] es el proceso de identificación de toda la información que es relevante y es extraída de grandes cantidades de datos. El objetivo de esta extracción es descubrir patrones y tendencias estructurando la información que se ha obtenido de una manera que sea comprensible para su utilización. El #[em data mining] reúne las ventajas de varias áreas como la inteligencia artificial, la estadística, las bases de datos, la computación gráfica y el procesamiento masivo.
           .cajon.color-acento-contenido.p-4.mb-4
-            p La principal diferencia entre #[em big data] y #[em data mining] (grandes datos y minería de datos) se halla en que #[em data mining] se refiere a operaciones que implican búsquedas sofisticadas para la obtención de datos específicos y concretos dentro del gran mundo de los datos (#[em big data]) Ejemplificando la data mining es observar, analizar y estudiar los datos con  microscopios, mientras que el #[em big data]  utilizará telescopios para observar, analizar y estudiar los datos
+            p La principal diferencia entre #[em big data] y #[em data mining] (grandes datos y minería de datos) se halla en que #[em data mining] se refiere a operaciones que implican búsquedas sofisticadas para la obtención de datos específicos y concretos dentro del gran mundo de los datos (#[em big data]) Ejemplificando la #[em data mining] es observar, analizar y estudiar los datos con  microscopios, mientras que el #[em big data]  utilizará telescopios para observar, analizar y estudiar los datos
       
 
 

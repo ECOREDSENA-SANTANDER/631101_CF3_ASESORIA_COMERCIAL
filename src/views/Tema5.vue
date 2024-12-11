@@ -60,7 +60,7 @@
               | Diagramas R o diagramas de control para variabilidad en los procesos.
             li
               i.fas.fa-check-circle
-              | Diagramas o diagramas de control para atributos.(p 528).
+              | Diagramas o diagramas de control para atributos, (p 528).
         .col-lg-5.blanco.p-4.col-md-9
           .titulo-sexto.color-secundario
               h5 Figura 9. 
@@ -141,7 +141,7 @@
           ul.lista-ul
             li.d-flex.mb-2
               i.fas.fa-check-circle
-              | Prueba t de student es un medidor estadístico para poblaciones menores o iguales a 30.
+              | Prueba t de #[em student] es un medidor estadístico para poblaciones menores o iguales a 30.
             li.d-flex.mb-2
               i.fas.fa-check-circle
               | Prueba z es una prueba para distribuciones normales, que muestra la posibilidad que un data aparezca reflejado en la distribución de frecuencias.

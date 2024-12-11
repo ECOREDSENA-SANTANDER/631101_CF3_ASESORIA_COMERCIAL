@@ -7,11 +7,11 @@
         span 6
       h1 Informes y documentos
 
+    p.mb-5  Los informes y documentos son parte fundamental del proceso que se llevará a cabo.
+    
     #t_6_1.titulo-segundo.mb-4.color-primario
       h2 6.1 Informes
     
-    p.mb-2  Los informes y documentos son parte fundamental del proceso que se llevará a cabo.
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-4.col-8
         img.mb-2(src='@/assets/curso/temas/tema6/img01.png', alt='')

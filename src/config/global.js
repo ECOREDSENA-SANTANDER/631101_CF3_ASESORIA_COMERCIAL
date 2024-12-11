@@ -373,14 +373,14 @@ export default {
       tema: '1.1 La información',
       referencia:
         'Pérez, J. (2008) concepto de información. https://definicion.de/informacion/',
-      tipo: 'Otro (Página web)',
+      tipo: 'Página web',
       link: 'https://definicion.de/informacion/ ',
     },
     {
       tema: '3.	Variables de la información',
       referencia:
         'Questionpro (2021) cuales son los tipos de variables de la información https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
-      tipo: 'Otro (Página web)',
+      tipo: 'Página web',
       link:
         'https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/ ',
     },
@@ -388,21 +388,21 @@ export default {
       tema: '4.	Procesamiento de la información',
       referencia:
         'Espinoza F. (2018). Las variables y su operacionalización en la investigación educativa. Scielo. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442018000500039 ',
-      tipo: 'Otro (Página web)',
+      tipo: 'Página web',
       link: 'http://www.scielo.org.pe/pdf/biblios/n75/a05n75.pdf ',
     },
     {
       tema: '5.	Análisis de datos',
       referencia:
         'Rodríguez, J. (2024, enero 17). Qué es el análisis de datos: definición, etapas y ejemplos. Mundo Posgrado. https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
-      tipo: 'Otro (Página web)',
+      tipo: 'Página web',
       link: 'https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
     },
     {
       tema: '6. Informes ',
       referencia:
         'Equipo editorial etece. (2021) Concepto, informes https://concepto.de/informe/',
-      tipo: 'Otro (Página web)',
+      tipo: 'Página web',
       link: 'https://concepto.de/informe/ ',
     },
   ],
@@ -428,7 +428,7 @@ export default {
         {
           nombre: 'Laureano E. Ruidiaz Polo',
           cargo: 'Instructor grado 16',
-          centro: 'SENA REGIONAL BOLÍVAR, Centro de Comercio y Servicios',
+          centro: 'Centro de Comercio y Servicios - Sena Regional Bolívar',
         },
         {
           nombre: 'Zenith Chinchilla Ruedas',
@@ -437,8 +437,8 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora Metodológica y Pedagógica ',
-          centro: 'Regional Distrito Capital- Centro de Diseño y Metrología ',
+          cargo: 'Revisora metodológica y pedagógica ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
@@ -462,12 +462,12 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Leonardo Castellanos Rodriguez',
+          nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Maria Alejandra Vera Briceño',
+          nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productor multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
