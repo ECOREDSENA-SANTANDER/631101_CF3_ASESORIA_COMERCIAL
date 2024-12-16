@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 La información
+      h1 Análisis de datos
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12.col-md-12.col-12
@@ -45,7 +45,7 @@
       
       Separador 
       #t_4_1.titulo-segundo.mb-4.color-primario
-        h2 4.2 Tipos de análisis de datos 
+        h2 4.2 Tipos de análisis 
 
       p.mb-5 Son varios los tipos de análisis de datos que se pueden realizar dependiendo de la información que se dispone, a continuación se destacan los más importantes.
       
@@ -125,7 +125,7 @@
                   p Es la parte de la inteligencia artificial (IA) que se concentra en desarrollar sistemas que aprenden, u optimizan el rendimiento, en dependencia  de los datos que ejecuten. Inteligencia artificial es un término amplio que se refiere a sistemas o máquinas que imitan la inteligencia humana, se puede decir que, el #[em Machine Learning] (como también es conocido el aprendizaje automático) es una disciplina del ámbito de la Inteligencia Artificial que, a través de algoritmos o guarismos matemáticos, otorga a los computadores de la capacidad de asemejar estándares en datos masivos y elaborar predicciones (para hacer análisis predictivos).
                 .col-lg-5.col-sm-9.blanco.p-4
                   img(src='@/assets/curso/temas/tema4/img08.png', alt='')
-                  figcaption Nota: Adaptada de Noelia Hernandez (2019)
+                 
               
               
               .row.justify-content-center(titulo="Análisis del <i>Big Data</i>")

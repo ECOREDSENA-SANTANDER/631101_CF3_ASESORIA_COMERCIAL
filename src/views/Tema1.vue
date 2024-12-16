@@ -138,7 +138,7 @@
 
       Separador 
       #t_1_5.titulo-segundo.mb-4.color-primario
-        h2 1.5 Técnicas de análisis de la información
+        h2 1.5	Análisis de la información
 
       p La información tiene diversas formas de ser examinada y analizada, de ello, dependerá las conclusiones que sean pertinentes al proceso de investigación que se está desarrollando, por tanto, a continuación se presenta la conceptualización de las formas de análisis de la información.
 

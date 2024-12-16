@@ -432,7 +432,7 @@ export default {
         },
         {
           nombre: 'Zenith Chinchilla Ruedas',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñadora instruccional',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
@@ -448,7 +448,7 @@ export default {
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
