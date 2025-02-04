@@ -66,7 +66,7 @@
                 p.mb-0 #[b Informe analítico:]  es un tipo de informe o evaluación de un conjunto particular de circunstancias relacionadas con el efecto que producen, por lo tanto, determinan y desarrollan las causas de un hecho o fenómeno.
           .col-lg-4.col-8.my-2.col-md-6
             figure
-              img.mb-2(src='@/assets/curso/temas/tema6/img02.png', alt='')   
+              img.mb-2(src='@/assets/curso/temas/tema6/img03.png', alt='')   
 
 
 
