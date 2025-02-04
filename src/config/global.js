@@ -217,7 +217,7 @@ export default {
     {
       referencia: 'Grupo 10. (2015). Tipos de gráficas de control.',
       link:
-        '. http://grupo10direccion.blogspot.com/2015/06/tipos-de-graficas-de-control-1.html  ',
+        'http://grupo10direccion.blogspot.com/2015/06/tipos-de-graficas-de-control-1.html',
     },
     {
       referencia:
@@ -245,7 +245,7 @@ export default {
       referencia:
         'Higuita David. (2016). Analítica y productividad aplicada al ruteo de vehículos. ',
       link:
-        'https://www.grupobancolombia.com/wps/portal/empresas/capital-inteligente/entorno-empresarial/tendencias/analitica-y-productividad  ',
+        'https://www.bancolombia.com/empresas/capital-inteligente/tendencias/innovacion/analitica-y-productividad',
     },
     {
       referencia:
@@ -281,9 +281,9 @@ export default {
     },
     {
       referencia:
-        'Pulido Raúl. (2018).   Como iniciarse en el Big Data y el Análisis de Datos y no morir en el intento: La limpieza de datos. Puentes digitales ',
+        'Análisis de big data—ArcGIS Velocity | Documentación. (s. f.).',
       link:
-        'https://puentesdigitales.com/2018/02/09/como-iniciarse-en-el-big-data-y-el-analisis-de-datos-y-no-morir-en-el-intento-la-limpieza-de-datos/  ',
+        'https://doc.arcgis.com/es/velocity/analyze/perform-big-data-analysis.htm',
     },
     {
       referencia:
@@ -379,29 +379,29 @@ export default {
     {
       tema: '3.	Variables de la información',
       referencia:
-        'Questionpro (2021) cuales son los tipos de variables de la información https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
+        'Parra, A. (2023, 7 agosto). Cuáles son los tipos de variables en una investigación. QuestionPro. https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
       tipo: 'Página web',
       link:
-        'https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/ ',
+        'https://www.questionpro.com/blog/es/tipos-de-variables-en-una-investigacion/',
     },
     {
       tema: '4.	Procesamiento de la información',
       referencia:
-        'Espinoza F. (2018). Las variables y su operacionalización en la investigación educativa. Scielo. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442018000500039 ',
+        'Espinoza Freire, E. E. (2018). Las variables y su operacionalización en la investigación educativa. Parte I.',
       tipo: 'Página web',
-      link: 'http://www.scielo.org.pe/pdf/biblios/n75/a05n75.pdf ',
+      link:
+        'http://scielo.sld.cu/scielo.php?pid=S1990-86442018000500039&script=sci_arttext&tlng=en',
     },
     {
       tema: '5.	Análisis de datos',
-      referencia:
-        'Rodríguez, J. (2024, enero 17). Qué es el análisis de datos: definición, etapas y ejemplos. Mundo Posgrado. https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
+      referencia: 'Universidad del sur.(2.018), Análisis de datos',
       tipo: 'Página web',
-      link: 'https://www.mundoposgrado.com/que-es-el-analisis-de-datos/',
+      link:
+        'https://sites.google.com/site/tecnicasdeinvestigaciond38/metodos-estadisticos/1-1-analisis-de-datos ',
     },
     {
       tema: '6. Informes ',
-      referencia:
-        'Equipo editorial etece. (2021) Concepto, informes https://concepto.de/informe/',
+      referencia: 'Equipo editorial etece. (2021) Concepto, informes',
       tipo: 'Página web',
       link: 'https://concepto.de/informe/ ',
     },
@@ -428,7 +428,7 @@ export default {
         {
           nombre: 'Laureano E. Ruidiaz Polo',
           cargo: 'Instructor grado 16',
-          centro: 'Centro de Comercio y Servicios - Sena Regional Bolívar',
+          centro: 'Centro de Comercio y Servicios - Regional Sena Bolívar',
         },
         {
           nombre: 'Zenith Chinchilla Ruedas',

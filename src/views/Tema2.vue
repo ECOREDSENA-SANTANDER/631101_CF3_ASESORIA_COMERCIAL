@@ -80,7 +80,7 @@
           .titulo-sexto.color-secundario
             h5 Figura 1. 
             | Causa y efecto
-          img(src="@/assets/curso/temas/tema2/img02.svg", alt= 'la imagen presenta dos columnas: causa y efecto, donde se menciona: manipulada y variable independiente en la columna de causa; medida y variable dependiente en la columna de efecto. Estas palabras también relacionan respectivamente.')
+          img(src="@/assets/curso/temas/tema2/img02.svg", alt= 'La imagen presenta dos columnas: causa y efecto, donde se menciona: manipulada y variable independiente en la columna de causa; medida y variable dependiente en la columna de efecto. Estas palabras también relacionan respectivamente.')
         .col-lg-5.col-md-12.col-12
           br
           br

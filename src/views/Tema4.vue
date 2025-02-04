@@ -55,7 +55,7 @@
             h5 Figura 2. 
             | Tipos de análisis de datos
         .col-lg-12.col-md-12.col-12.px-3
-          img(src='@/assets/curso/temas/tema4/img03.svg', alt='la imagen presenta un línea recta, y dos flechas simulando que empujan hacia abajo y hacia arriba, al lado de la flecha hacia abajo se lee análisis cualitativo, y al lado de la flecha hacia arriba se lee análisis cuantitativo.')
+          img(src='@/assets/curso/temas/tema4/img03.svg', alt='La imagen presenta un línea recta, y dos flechas simulando que empujan hacia abajo y hacia arriba, al lado de la flecha hacia abajo se lee análisis cualitativo, y al lado de la flecha hacia arriba se lee análisis cuantitativo.')
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-8
@@ -72,7 +72,7 @@
             .titulo-sexto.color-secundario
               h5 Figura 3. 
               | Análisis descriptivo, predictivo y prescriptivo
-            img(src='@/assets/curso/temas/tema4/img05.svg', alt='la imagen presenta tres iconos donde se lee respectivamente lo siguiente: Descriptiva(bombillo): describir y comprender lo que está pasando. <i>Big Data</i>. Predictiva(lupa): predecir lo que puede pasar. Pronostico y simulación. Prescriptiva(grafica de barras): Lo que se debe hacer en el futuro. Técnicas de optimización.')
+            img(src='@/assets/curso/temas/tema4/img05.svg', alt='La imagen presenta tres iconos donde se lee respectivamente lo siguiente: Descriptiva(bombillo): describir y comprender lo que está pasando. <i>Big Data</i>. Predictiva(lupa): predecir lo que puede pasar. Pronostico y simulación. Prescriptiva(grafica de barras): Lo que se debe hacer en el futuro. Técnicas de optimización.')
             figcaption Nota: Adaptada de David Higuita (2.016)
       Separador 
       #t_4_3.titulo-segundo.mb-4.color-primario
@@ -104,7 +104,7 @@
                   .titulo-sexto.color-secundario
                     h5 Figura 4. 
                     | Ámbito, Objetivos de negocio
-                  img(src='@/assets/curso/temas/tema4/img06.svg', alt='la imagen presenta un diagrama de flujo con figuras geométricas que representan el proceso del análisis de datos: datos iniciales, almacén de datos, vista minable, patrones , conocimiento y decisiones. Adicional a estos conceptos, se encuentran mencionados en un flujo contrario: revisión, despliegue, evaluación, modelado, preparación de datos, integración y recopilación.')
+                  img(src='@/assets/curso/temas/tema4/img06.svg', alt='La imagen presenta un diagrama de flujo con figuras geométricas que representan el proceso del análisis de datos: datos iniciales, almacén de datos, vista minable, patrones , conocimiento y decisiones. Adicional a estos conceptos, se encuentran mencionados en un flujo contrario: revisión, despliegue, evaluación, modelado, preparación de datos, integración y recopilación.')
                   figcaption Nota. Adaptada de conceptos (2.018)
 
 
@@ -116,7 +116,7 @@
                     .titulo-sexto.color-secundario
                       h5 Figura 5.
                       |  Proceso #[em business intelligence] 
-                    img(src='@/assets/curso/temas/tema4/img07.svg', alt='en el diagrama se presenta un flujo con los siguientes conceptos: Fuentes de datos, extracción, transformación y carga, almacén de datos y explotación de datos. Usuario final')
+                    img(src='@/assets/curso/temas/tema4/img07.svg', alt='En el diagrama se presenta un flujo con los siguientes conceptos: Fuentes de datos, extracción, transformación y carga, almacén de datos y explotación de datos. Usuario final')
       
 
               .row.justify-content-center(titulo="Aprendizaje  automático")
@@ -139,7 +139,7 @@
                   .titulo-sexto.color-secundario
                     h5 Figura 6.
                     | #[em Big Data] 
-                  img.mb-2(src='@/assets/curso/temas/tema4/img09.png', alt='Texto alternativo: la imagen presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
+                  img.mb-2(src='@/assets/curso/temas/tema4/img09.png', alt='La imagen presenta las palabras <i>BIG DATA</i> en el medio de un circulo, sobre el cual se mencionan: recolección de datos, limpieza de datos, analisis de datos e interpretación de datos.')
                   figcaption Nota. Adaptada de Raul Pulido (2.018)
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")

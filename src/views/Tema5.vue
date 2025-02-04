@@ -66,7 +66,7 @@
               h5 Figura 9. 
               | Gráfico de control X-R.
           figure
-            img(src='@/assets/curso/temas/tema5/figura9.png', alt='la grafica presenta  puntos situados en un zigzag irregural unidos por una línea azul.')
+            img(src='@/assets/curso/temas/tema5/figura9.png', alt='La grafica presenta  puntos situados en un zigzag irregural unidos por una línea azul.')
             figcaption Nota. Adaptada de Grupo 10 (2.015)
        
       .row.justify-content-center.p-4(titulo="Distribución de frecuencias y representaciones gráficas")
