@@ -44,7 +44,7 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Entrevista', esCorrecta: false },
-            { id: 'b', texto: 'Investigación cuantitativaaaaaaaaaa', esCorrecta: true },
+            { id: 'b', texto: 'Investigación cuantitativa', esCorrecta: true },
             { id: 'c', texto: 'Análisis cualitativo', esCorrecta: false },
             { id: 'd', texto: 'Análisis prescriptivo', esCorrecta: false },
           ],
