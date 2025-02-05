@@ -39,7 +39,7 @@ export default {
         {
           id: 2,
           texto:
-            'E un método de investigación en el que el investigador recolecta datos numéricos de los objetos, fenómenos o participantes.',
+            'Es un método de investigación en el que el investigador recolecta datos numéricos de los objetos, fenómenos o participantes.',
           imagen: require('@/assets/componentes/img02.png'),
           barajarRespuestas: true,
           opciones: [
